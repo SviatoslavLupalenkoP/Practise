@@ -1,0 +1,20 @@
+{
+  "name": "qa-automation",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/SviatoslavLupalenkoP/Practise#readme",
+  "bugs": {
+    "url": "https://github.com/SviatoslavLupalenkoP/Practise/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SviatoslavLupalenkoP/Practise.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
